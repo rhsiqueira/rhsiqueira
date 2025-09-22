@@ -26,9 +26,17 @@
 ---
 
 ### 📌 Projetos em Destaque
-- ⚛️ **Aplicações em React/JS** → Frontend dinâmico com integração a APIs. *(Repositórios públicos disponíveis aqui no GitHub)*  
-- 🛠️ **Automação em Python** → Experiência em scripts para otimizar rotinas internas (projetos privados, aplicados em ambiente corporativo).  
-- 🚀 **Novo Projeto em Desenvolvimento** → Plataforma com **Laravel/PHP + React/JS + AWS + Power BI**.  
+
+- 🏗️ **[site-rm-construcao](https://github.com/rhsiqueira/site-rm-construcao) (Public)**  
+  Desenvolvimento do site da empresa **RM Construções e Reformas LTDA**  
+  *JavaScript | React* | Atualizado em **11 Fev 2025**
+
+- 🌱 **[godzilla-website](https://github.com/rhsiqueira/godzilla-website) (Public)**  
+  Desenvolvimento do site da empresa **Godzilla Coleta de Óleo**  
+  *JavaScript | React*
+
+- 🚀 **Sistema de Gestão de Coleta de Óleo (Em Desenvolvimento)**  
+  Plataforma completa utilizando **Laravel/PHP + React/JS + AWS + Power BI**
 
 ---
 
